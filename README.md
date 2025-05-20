@@ -175,11 +175,3 @@ default = your_username
 - **Neovim**: Text editor with LazyVim config
 - **VSCode**: IDE with WSL integration
 
-## Configuration Files
-
-- Neovim: Configuration in `nvim/` directory
-- Zsh: Configuration in `zsh/.zshrc`
-- Wezterm: Configuration in `wezterm/.wezterm.lua`
-- WHKD: Hotkeys in `whkdrc/whkdrc`
-- Komorebi: Window management in `komorebi/` directory
-- YASB: Status bar in `yasb/` directory
