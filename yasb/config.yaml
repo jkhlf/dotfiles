@@ -40,11 +40,10 @@ bars:
         "whkd",
       ]
       center: [
-        "clock"
+        "taskbar",
       ]
       right: [
-        "active_window",
-        "taskbar",
+        "clock",
         "cpu",
         "memory",
         "volume",
@@ -374,8 +373,8 @@ widgets:
       app_list:
         # - { icon: "\uf422", launch: "search" }
         - { icon: "\ueb03", launch: "cmd /c Taskmgr" }
-        - { icon: "\uf268",launch: "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe" }
-        - { icon: "\uf489", launch: "wt" }
+        # - { icon: "\uf268",launch: "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe" }
+        # - { icon: "\uf489", launch: "wt" }
         # - { icon: "\uf1ff",launch: "Discord.exe" }
         - { icon: "\udb82\ude1e",launch: "Code.exe" }
   taskbar:
