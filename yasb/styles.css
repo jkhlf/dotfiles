@@ -77,7 +77,7 @@ QToolTip {
 .memory-widget {
     padding-left: 0;
 }
-.cpu-widget .widget-container {
+.cpu-widget .widget-container  {
     border-bottom-right-radius: 0;
     border-top-right-radius: 0;
 }
@@ -471,11 +471,9 @@ QToolTip {
     border-radius: 6px;
 }
 .taskbar-widget {
-    padding-left: 0;
+    padding-left: 2px;
 }
 .taskbar-widget .widget-container {
-    border-bottom-left-radius: 0;
-    border-top-left-radius: 0;
     /* padding-left: 6px; */
 }
 

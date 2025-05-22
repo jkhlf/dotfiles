@@ -36,14 +36,14 @@ bars:
       left: [
        # "home",
         "komorebi_workspaces",
-        "apps",
-        "whkd",
+        # "apps",
+         "taskbar",
+        # "whkd",
       ]
       center: [
-        "taskbar",
+        "clock",
       ]
       right: [
-        "clock",
         "cpu",
         "memory",
         "volume",
